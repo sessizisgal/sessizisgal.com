@@ -1,0 +1,8 @@
+{
+  "name": "SessizIsgal",
+  "version": "1.0.0",
+  "description": "SessizIsgal on react + nextjs",
+  "main": "index.js",
+  "author": "mete",
+  "license": "MIT"
+}
